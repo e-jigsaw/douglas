@@ -5,7 +5,7 @@
   "description": "Douglas is the ghq interface for Atom.",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "douglas:toggle"
+    "atom-workspace": "ghq:toggle"
   },
   "repository": "https://github.com/Sixeight/douglas",
   "license": "MIT",

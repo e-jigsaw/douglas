@@ -3,11 +3,11 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'Douglas'
+      'label': 'ghq'
       'submenu': [
         {
           'label': 'Toggle'
-          'command': 'douglas:toggle'
+          'command': 'ghq:toggle'
         }
       ]
     ]

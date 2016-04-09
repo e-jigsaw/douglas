@@ -9,7 +9,7 @@ module.exports = Douglas =
   activate: (state) ->
     @subscriptions = new CompositeDisposable
     @subscriptions.add atom.commands.add 'atom-workspace',
-      'douglas:toggle': => @toggle()
+      'ghq:toggle': => @toggle()
 
   deactivate: ->
     @modalPanel.destroy()
